@@ -1,0 +1,61 @@
+# Python-related files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+*.swp
+*.swo
+
+# Data files
+*.csv
+*.tsv
+*.dat
+*.data
+
+# Configurations
+*.yaml
+*.yml
+
+# Compiled files
+*.so
+*.dll
+*.dylib
+
+# Docker
+*.env
+docker-compose.override.yml
+
+# Static files
+static/css/style.css
+
+# Templates
+templates/customer.html
+
+# Ignore IDE-specific files
+.vscode/
+.idea/
+*.iml
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
+
+# Ignore build artifacts
+build/
+dist/
+*.egg-info/
