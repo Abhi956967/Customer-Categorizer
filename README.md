@@ -1,0 +1,2 @@
+# Customer-Categorizer
+Customer Segmentation
